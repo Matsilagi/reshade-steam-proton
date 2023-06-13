@@ -6,7 +6,7 @@ Bash script to download ReShade and the shaders and link them to games running w
 ### Quick:
 Download the script:
 
-    curl -LO https://github.com/kevinlekiller/reshade-steam-proton/raw/main/reshade-linux.sh
+    curl -LO https://github.com/matsilagi/reshade-steam-proton/raw/main/reshade-linux.sh
 Make it executable:
 
     chmod u+x reshade-linux.sh
@@ -17,7 +17,7 @@ Execute the script:
 ### Detailed:
 For detailed usage, follow the instructions in the script's source:
 
-https://github.com/kevinlekiller/reshade-steam-proton/blob/main/reshade-linux.sh#L21
+https://github.com/matsilagi/reshade-steam-proton/blob/main/reshade-linux.sh#L21
 
 ## Alternatives
 
