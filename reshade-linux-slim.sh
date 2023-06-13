@@ -151,6 +151,7 @@ cat > /dev/null <<DESCRIPTION
                 https://github.com/CeeJayDK/SweetFX|sweetfx-shaders;https://github.com/martymcmodding/qUINT|martymc-shaders;https://github.com/BlueSkyDefender/AstrayFX|astrayfx-shaders;https://github.com/prod80/prod80-ReShade-Repository|prod80-shaders;https://github.com/crosire/reshade-shaders|reshade-shaders|slim
             The format is (the branch is optional) : URI|local_repo_name|branch
             Use ; to seperate multiple repo's. For example: URI1|local_repo_name_1|master;URI2|local_repo_name_2
+			You can see a list of curated repositories here: https://github.com/crosire/reshade-shaders/blob/list/EffectPackages.ini
 
         MERGE_SHADERS
             If you're using multiple shader repositories, all the unique shaders will be put into one folder called Merged.
