@@ -57,9 +57,9 @@ cat > /dev/null <<DESCRIPTION
     Usage:
         Download the script
             Using curl:
-                curl -LO https://github.com/kevinlekiller/reshade-steam-proton/raw/main/reshade-linux-slim.sh
+                curl -LO https://github.com/matsilagi/reshade-steam-proton/raw/main/reshade-linux-slim.sh
             Using git:
-                git clone https://github.com/kevinlekiller/reshade-steam-proton
+                git clone https://github.com/matsilagi/reshade-steam-proton
                 cd reshade-steam-proton
         Make it executable:
             chmod u+x reshade-linux-slim.sh
